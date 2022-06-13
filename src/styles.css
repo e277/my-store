@@ -19,7 +19,7 @@ body {
 }
 
 router-outlet + *  {
-  padding: 0 16px;
+  padding: 50px 100px;
 }
 
 /* Text */
